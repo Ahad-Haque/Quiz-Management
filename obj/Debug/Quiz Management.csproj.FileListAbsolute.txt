@@ -1,0 +1,16 @@
+C:\Users\Ahad\Desktop\Program tests\Quiz Management\bin\Debug\Quiz Management.exe.config
+C:\Users\Ahad\Desktop\Program tests\Quiz Management\bin\Debug\Quiz Management.exe
+C:\Users\Ahad\Desktop\Program tests\Quiz Management\bin\Debug\Quiz Management.pdb
+C:\Users\Ahad\Desktop\Program tests\Quiz Management\bin\Debug\Guna.UI2.dll
+C:\Users\Ahad\Desktop\Program tests\Quiz Management\obj\Debug\Quiz Management.csproj.AssemblyReference.cache
+C:\Users\Ahad\Desktop\Program tests\Quiz Management\obj\Debug\Quiz_Management.Form1.resources
+C:\Users\Ahad\Desktop\Program tests\Quiz Management\obj\Debug\Quiz_Management.Properties.Resources.resources
+C:\Users\Ahad\Desktop\Program tests\Quiz Management\obj\Debug\Quiz Management.csproj.GenerateResource.cache
+C:\Users\Ahad\Desktop\Program tests\Quiz Management\obj\Debug\Quiz Management.csproj.CoreCompileInputs.cache
+C:\Users\Ahad\Desktop\Program tests\Quiz Management\obj\Debug\Quiz Management.csproj.CopyComplete
+C:\Users\Ahad\Desktop\Program tests\Quiz Management\obj\Debug\Quiz Management.exe
+C:\Users\Ahad\Desktop\Program tests\Quiz Management\obj\Debug\Quiz Management.pdb
+C:\Users\Ahad\Desktop\Program tests\Quiz Management\obj\Debug\Quiz_Management.Teacher.resources
+C:\Users\Ahad\Desktop\Program tests\Quiz Management\obj\Debug\Quiz_Management.Teacher_UC.AddNewQuestion.resources
+C:\Users\Ahad\Desktop\Program tests\Quiz Management\obj\Debug\Quiz_Management.Teacher_UC.UC_UpdateQuestion.resources
+C:\Users\Ahad\Desktop\Program tests\Quiz Management\obj\Debug\Quiz_Management.Teacher_UC.UC_ViewDeleteQuestion.resources
